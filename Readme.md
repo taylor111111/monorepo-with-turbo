@@ -172,12 +172,11 @@ Yarn Workspaces 会自动完成：
 每个应用都可以独立启动：
 
 ```bash
-cd apps/app-d
-yarn start
+yarn workspace @repo/app-d build
+yarn workspace @repo/app-d start
 
-
-cd apps/app-e
-yarn start
+yarn workspace @repo/app-e build
+yarn workspace @repo/app-e start
 ```
 
 支持热更新（HMR）。

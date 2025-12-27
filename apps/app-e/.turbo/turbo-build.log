@@ -1,0 +1,45 @@
+
+[2K[1G[1myarn run v1.22.22[22m
+[2K[1G[2m$ node ../../tooling/cra-config/scripts/build.js[22m
+study: style-loader: /Users/xiaoyuehu/Projects/monorepo-with-turbo/node_modules/style-loader/dist/cjs.js
+study: style-loader: /Users/xiaoyuehu/Projects/monorepo-with-turbo/node_modules/style-loader/dist/cjs.js
+study: style-loader: /Users/xiaoyuehu/Projects/monorepo-with-turbo/node_modules/style-loader/dist/cjs.js
+study: style-loader: /Users/xiaoyuehu/Projects/monorepo-with-turbo/node_modules/style-loader/dist/cjs.js
+Creating an optimized production build...
+[33mBrowserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme[39m
+[33mBrowserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme[39m
+[33mBrowserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme[39m
+[33mBrowserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme[39m
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[32mCompiled successfully.[39m
+[32m[39m
+File sizes after gzip:
+
+  50.14 kB        [2mbuild/static/js/[22m[36mmain.8187cfa9.js[39m
+  1.77 kB ([33m+2 B[39m)  [2mbuild/static/js/[22m[36m415.0fbf32c7.chunk.js[39m
+  685 B           [2mbuild/static/css/[22m[36mmain.b767fe5f.css[39m
+
+The project was built assuming it is hosted at [32m/[39m.
+You can control this with the [32mhomepage[39m field in your [36mpackage.json[39m.
+
+The [36mbuild[39m folder is ready to be deployed.
+You may serve it with a static server:
+
+  [36myarn[39m global add serve
+  [36mserve[39m -s build
+
+Find out more about deployment here:
+
+  [33mhttps://cra.link/deployment[39m
+
+[2K[1G✨  Done in 2.43s.

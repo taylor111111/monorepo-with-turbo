@@ -1,0 +1,8 @@
+
+[2K[1G[1myarn run v1.22.22[22m
+[2K[1G[2m$ node ./scripts/build.js[22m
+[31mCould not find a required file.[39m
+[31m  Name: [39m[36mindex.html[39m
+[31m  Searched in: [39m[36m/Users/xiaoyuehu/Projects/monorepo-with-turbo/tooling/cra-config/public[39m
+[2K[1G[31merror[39m Command failed with exit code 1.
+[2K[1G[34minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
