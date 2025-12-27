@@ -1,0 +1,39 @@
+{
+  "name": "@repo/app-d",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@repo/domain-user": "*",
+    "@repo/widget-pv-chat": "*"
+  },
+  "scripts": {
+    "start": "node ../../tooling/cra-config/scripts/start.js",
+    "build": "node ../../tooling/cra-config/scripts/build.js",
+    "test": "node ../../tooling/cra-config/scripts/test.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "babel": {
+    "presets": [
+      "react-app"
+    ]
+  }
+}
